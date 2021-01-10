@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora de Imposto</h1>
-<h3 align="center">Sistema de calculo de imposto desenvolvida em C# usando o conceito de Design Patterns.</h3>
+<h3 align="center">Sistema de cálculo de imposto desenvolvida em C# usando o conceito de Design Patterns.</h3>
 
-Este projeto tem como objetivo o desenvolvimento de uma aplicação para calculo de imposto aplicando o conceito de Design Patterns com o padrão: Strategy.
+Este projeto tem como objetivo o desenvolvimento de uma aplicação para cálculo de imposto aplicando o conceito de Design Patterns com o padrão: Strategy.
 
 
 
